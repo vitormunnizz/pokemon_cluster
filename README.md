@@ -93,5 +93,5 @@ No notebook `cluster_pokemon.ipynb` são realizadas:
 
 Engenheiro da Computação | Especialista em Ciência de Dados
 
-*  [vitormunnnizzz@gmail.com](mailto:vitormunnnizzz@gmail.com)
-*  [www.linkedin.com/in/vitormunnnizzz](https://www.linkedin.com/in/vitormunnnizzz)
+*  [vitormunnizz@gmail.com](mailto:vitormunnizz@gmail.com)
+*  [www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
